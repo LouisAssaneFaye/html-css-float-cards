@@ -11,7 +11,6 @@ body{
 .container{
     width:70%;
     margin: 0 auto;
-    border: 1px solid black;
     padding-top: 19px;;
 }
 
@@ -32,7 +31,7 @@ header{
 
 
 .first-row{
-    border: 1px solid black;
+    
 }
 
 .clearfix::after {
@@ -42,7 +41,7 @@ header{
 }
 
 .second-row{
-    border: 1px solid black;
+    
     margin-top: 35px;
 }
 
