@@ -9,7 +9,7 @@ body{
 }
 
 .container{
-    width:70%;
+    width:80%;
     margin: 0 auto;
     padding-top: 19px;;
 }
@@ -46,7 +46,6 @@ header{
 }
 
 .rectangle{
-    width: 32% ;
     height: 95px;
     background-color: black;
 }
@@ -61,7 +60,7 @@ header{
 }
 
 .margin-auto{
-    margin-left:18px;
+    margin-left:43px;
 }
 
 .foto,.informazioni{
@@ -74,12 +73,27 @@ img{
  }
 
 .informazioni{
-    padding-top:6.5px ;
-    padding-left:15px ;
+    color: white;
+
 }
 
  h2{
-    color: white;
-    font-size: 19px;
+    font-size: 20px ;
 
+}
+
+.mail{
+    color: rgba(58, 122, 248, 0.783);
+}
+
+.informazioni{
+    width: 220px ;
+    padding-left: 10px;
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+h1{
+    color: rgb(211, 61, 131);
+    font-weight: bolder;
 }
