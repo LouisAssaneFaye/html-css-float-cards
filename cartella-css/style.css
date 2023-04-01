@@ -27,13 +27,6 @@ header{
 }
 
 
-
-
-
-.first-row{
-    
-}
-
 .clearfix::after {
     content: "";
     display: table;
@@ -55,12 +48,9 @@ header{
 
 }
 
-.float-right{
-    float: right;
-}
-
 .margin-auto{
-    margin-left:43px;
+    margin-left: 42.5px;
+    margin-right: 42.5px;
 }
 
 .foto,.informazioni{
@@ -94,6 +84,6 @@ img{
 
 h1{
     color: rgb(211, 61, 131);
-    font-weight: bolder;
+    font-weight:bolder;
 }
 
